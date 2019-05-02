@@ -81,6 +81,16 @@
         color: #fff;
         margin: 0% 0% 0% 0%;
     }
+footer
+    {
+        padding: 0% 5%;
+        margin-bottom: 4%;
+    }
+footer img
+    {
+        float:right;
+        margin-top: -7%;
+    }
         
         
         
