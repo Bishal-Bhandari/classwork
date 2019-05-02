@@ -14,16 +14,19 @@
        background-color: #82863b;
        height: 45px;
        color: #fff;
+       padding-top: 15px;
+       display: flex;
     }
 #headerrr a
     {
         color:#fff;
-        
+        margin-left: 11px;
     }
 #headerrr p
     {
         float:right;
-        margin-right:250px;
+        margin-left: 340px;
+        margin-top: 5px;
     }
 #Intro
     {
